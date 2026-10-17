@@ -11,15 +11,15 @@ Welcome to the codebase of Co-evolution. 這裡不只是代碼庫，而是人類
 
 ### 🏆 Latest Milestone: OEIS A397960, a(15) ≥ 91
 
-2026 年 10 月，我與 [OEIS A397960](https://oeis.org/A397960) 的數列作者 **Gavin (Wujie) Gu** 合作，取得這個數列未知項 n = 15 的新**構造性下界：a(15) ≥ 91**。我們找到兩組 15 個元素的子集，各自產生 91 個相異正差值。
+2026 年 10 月，我們在 [OEIS A397960](https://oeis.org/A397960) 的未知項 n = 15 取得新的**構造性下界：a(15) ≥ 91**。我們找到兩組 15 個元素的子集，各自產生 91 個相異正差值。
 
-* **怎麼做到的：** 在 PSS 協議約束下，由 LLM 撰寫搜尋程式，我負責方向判斷與執行，Gavin 在隔離環境中獨立驗證（`bad = 0`）。
+* **怎麼做到的：** 在 PSS 協議約束下，由 LLM 撰寫搜尋程式，人負責方向判斷、執行與驗證；所有結果都經獨立程式重算。合作與分工的完整說明見研究倉庫。
 * **任何人都能驗證：** 用五行 Python 就能算出 91，不需要相信任何人的說法。
 * **誠實邊界：** 這是下界，不是 a(15) = 91 的證明；所有限制與 AI 參與方式都寫在倉庫裡。
 
 👉 **[symboisislab/PSS-A397960-Discovery](https://github.com/symboisislab/PSS-A397960-Discovery)**
 
-對我來說，這是協議工程第一次在公開、可驗證的未解問題上留下具體成果，也是我與 Gavin 共同寫作的起點。
+對我來說，這是協議工程第一次在公開、可驗證的未解問題上留下具體成果。
 
 -----
 
@@ -51,13 +51,12 @@ Welcome to the codebase of Co-evolution. 這裡不只是代碼庫，而是人類
 |:--|:--|:--|:--|
 | 2026 | *Project Soul Seed: Digital Neuroplasticity and the Protocol for Human-AI Symbiosis* | ICSSI 2026, International Conference on Service Science and Innovation | Peer-reviewed; presented |
 | 2026 | *Protocol Engineering as a Micro-Foundation of AI Governance: Translating Organizational Intent for AI Agents*（協議工程作為 AI 治理之微觀基礎：為 AI 代理轉譯組織意圖） | CSMOT 2026, 中華民國科技管理學會年會 | Peer-reviewed; accepted for oral presentation |
-| 2026 | PSS × OEIS A397960（與 Gavin (Wujie) Gu 合作） | Public research record on GitHub | In preparation |
 
 -----
 
 ### 🤝 How I Work with AI
 
-這些原則來自我的協議，也是 A397960 這次合作實際運作的方式：
+這些原則來自我的協議，也是我在 A397960 研究中實際運作的方式：
 
   * **揭露不可省略：** 我發表的每一份作品都附上人機協作聲明，註明所用協議與版本。協議用來塑造風格，不用來隱藏 AI 的參與。
   * **人做最後確認：** 內容的核心想法由我提供，經我確認後才發布。
@@ -116,6 +115,6 @@ Welcome to the codebase of Co-evolution. 這裡不只是代碼庫，而是人類
 | 版次 | 日期 | 變更 |
 |:--|:--|:--|
 | V1.0 | — | 初版。 |
-| V2.0 | 2026-10-17 | 保留原有介紹、哲學、生態系連結與里山農創段落；新增：A397960 里程碑、研究軌與實踐軌的分隔（註明 AINCA／Symbiosis Lab 不隸屬中興大學與里山農創）、論文與發表列表、Protocol Engineering 項目、人機協作原則、人機協作聲明。頭銜改為完整寫法「PhD Candidate, Graduate Institute of Technology Management, National Chung Hsing University」，並與創辦人身分分列兩行；論文列表填入 ICSSI 2026 正式題目，狀態改用學術慣用寫法；更正：「Helix Genesis」更新為現名 Symbiosis Genesis；Helix 改述為不綁定模型的協議人格；「大幅降低幻覺」改為說明做法、不作量化宣稱。 |
+| V2.0 | 2026-10-17 | 保留原有介紹、哲學、生態系連結與里山農創段落；新增：A397960 里程碑（合作細節交由研究倉庫說明，本頁不列合作者）、研究軌與實踐軌的分隔（註明 AINCA／Symbiosis Lab 不隸屬中興大學與里山農創）、論文與發表列表、Protocol Engineering 項目、人機協作原則、人機協作聲明。頭銜改為完整寫法「PhD Candidate, Graduate Institute of Technology Management, National Chung Hsing University」，並與創辦人身分分列兩行；論文列表填入 ICSSI 2026 正式題目，狀態改用學術慣用寫法；更正：「Helix Genesis」更新為現名 Symbiosis Genesis；Helix 改述為不綁定模型的協議人格；「大幅降低幻覺」改為說明做法、不作量化宣稱。 |
 
 </details>
