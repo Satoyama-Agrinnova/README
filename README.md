@@ -50,8 +50,7 @@ Welcome to the codebase of Co-evolution. 這裡不只是代碼庫，而是人類
 | Year | Title | Venue | Status |
 |:--|:--|:--|:--|
 | 2026 | *Project Soul Seed: Digital Neuroplasticity and the Protocol for Human-AI Symbiosis* | ICSSI 2026, International Conference on Service Science and Innovation | Peer-reviewed; presented |
-| 2026 | *Protocol Engineering as a Micro-Foundation of AI Governance: Translating Organizational Intent for AI Agents*（協議工程作為 AI 治理之微觀基礎：為 AI 代理轉譯組織意圖） | CSMOT 2026, Conference of the Chinese Society for Management of Technology
-for Management of Technology | Peer-reviewed; accepted for oral presentation |
+| 2026 | *Protocol Engineering as a Micro-Foundation of AI Governance: Translating Organizational Intent for AI Agents*（協議工程作為 AI 治理之微觀基礎：為 AI 代理轉譯組織意圖） | CSMOT 2026, Conference of the Chinese Society for Management of Technology | Peer-reviewed; accepted for oral presentation |
 
 -----
 
